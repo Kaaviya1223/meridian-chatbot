@@ -3,7 +3,7 @@
 An AI-powered university admission assistant built with **Google Gemini 2.5 Flash** and a **RAG (Retrieval-Augmented Generation)** architecture. Handles natural language queries about programmes and retrieves real-time applicant data from a SQLite database — with zero hallucination on sensitive details.
 
 ## Demo
-> https://drive.google.com/file/d/1HJ6qPDG9Cm8tEYSXRQdPbkYOWfY7pINv/view?usp=sharing
+[▶ Watch Demo](https://drive.google.com/file/d/1HJ6qPDG9Cm8tEYSXRQdPbkYOWfY7pINv/view?usp=sharing)
 
 ## Architecture
 
